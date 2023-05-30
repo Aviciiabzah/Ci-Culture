@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">Ci_Culture</string>
+    <string name="default_web_client_id" translatable="false">491882594692-6lag15m9gfvngeb536qrkd666pi0ciad.apps.googleusercontent.com</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">491882594692</string>
+    <string name="google_api_key" translatable="false">AIzaSyBmKyhG3kQVaEcatlBZvEqbw8Ajo-c69wk</string>
+    <string name="google_app_id" translatable="false">1:491882594692:android:5dbc4204454c7c0c78ddd1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBmKyhG3kQVaEcatlBZvEqbw8Ajo-c69wk</string>
+    <string name="google_storage_bucket" translatable="false">ci-culture-2fefe.appspot.com</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="main">
+        הצרקסים הם מוסלמים-סונים (אינם ערבים בלאומיותם), מאמינים ומקיימים מצוות, ובעלי מעמד מיוחד בין המיעוטים הלא יהודיים בישראל.
+התרבות והמסורת של הצרקסים מאופיינת בשמרנות לצד השפעה מתרבות המערב, עובדה שמובילה לא אחת לקונפליקטים בתוך העדה. כלומר, הם מנהלים חיי קהילה שונים מאלה של כל אוכלוסייה אחרת בישראל, ועם זאת הם מתאמצים מאוד להשתלב בחברה הישראלית ולאמץ את אורח חייה.
+הצרקסים ידועים באצילות נפשם, בשמירתם על כבוד האדם, בחיי שכנות טובה, בנדיבותם ובסיועם לאחרים
+    </string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">ci-culture-2fefe</string>
+    <string name="recipe1">
+       <span Style="center"><big><big><b>מתאז</b></big></big></span>\n
+<b>המרכיבים</b>\n
+לבצק
+1 ק"ג קמח
+3 כוסות מים
+כף מלח
+1/3 כוס שמן
+<b>למילוי</b>\n
+1 בצל ירוק קצוץ\n
+1 חבילה גבינה צרקסית\n
+פפריקה מתוקה חריפה לפי הטעם\n
+1 כפית מלח\n
+<b>אופן ההכנה</b>\n
+לשים יחד את הקמח, המים, המלח והשמן עד ליצירת בצק
+מטגנים את הבצל הירוק במעט שמן צמחי, מוסיפים את הפפריקה המתוקה החריפה
+מפוררים את הגבינה ומוסיפים לבצל המטוגן, יחד עם כפית מלח לתערובת
+יוצרים מהבצק כדורים קטנים , משטחים עם מערוך וחורצים עיגולים קטנים (בגודל של פקק של תרסיס שמן) ומניחים כפית מהתערובת בתוך הבצק, סוגרים ומהדקים את הבצק
+מרתיחים מים עם קצת שמן ומלח ומבשלים כ-7 דקות
+
+
+    </string>
+    <string name="recipe2">
+<big><big>חלוז</big></big>\n
+<b>המרכיבים</b>\n
+לבצק\n
+1/2 קילו קמח\n
+1 ושליש כוסות מים\n
+4 כפות שמן\n
+כפית מלח\n
+<b>למילוי</b>\n
+500 גרם גבינה צרקסית\n
+שמן לטיגון\n
+<b>אופן ההכנה</b>
+לערבב יחד קמח,מים,4 כפות שמן ומלח ללוש עד ולהוסיף קמח/מים לפי הצורך ועד שמתקבל בצק אחיד ולא דביק . לכסות במגבת ולהניח בצד לחצי שעה
+לרדד את הבצק עד לעיגולים(בגודל של צלחת קטנה ). לפזר חופן גבינה צרקסית מפוררת בחצי העיגול
+לקפל את החצי בצק ללא הגבינה עם החצי עם הגבינה ולסגור לצורת חצי עיגול. לחתוך את הקצוות עם גלגלת בצק משוננת ולהניח בצד ולכסות בבד/מגבת עד לטיגון
+לחמם שמן לחום גבוה לטגן את החלוז משני הצדדים עד שמזהיב .להעביר לנייר סופג רצוי להגיש עם תה ולאכול את החלוז עם דבש או ריבה בעודו חם.
+
+    </string>
+    <string name="recipe3">
+<big><big>כנאפה עם גבינה צרקסית</big></big>\n
+<b>המרכיבים</b>\n
+200 גרם שערות קאדיף\n
+50 גרם חמאה ממוסת\n
+200 גרם גבינה צרקסית\n
+שלושת רבעי כוס מי סוכר\n
+<b>למי סוכר</b>\n
+חצי כוס סוכר\n
+חצי כוס מים\n
+<b>אופן ההכנה</b>\n
+מכינים מי סוכר: מביאים לרתיחה את הסוכר והמים תוך כדי ערבוב, ומבשלים כ-5 דקות.
+מערבבים את האטריות עם החמאה וקצת פחות מרבע כוס מי סוכר. משטחים קצת יותר מחצי מהכמות ומהדקים על המחבת.
+מפזרים את הגבינה הצרקסית (מפוררת) בכל המחבת ומכסים בעוד שכבה של שערות קדאיף
+מחממים על אש בינונית מבוקרת עד להזהבה, ואז הופכים בעזרת צלחת לצד שני ומחממים שוב עד להזהבה יפה. בזמן שהצד השני על האש מורחים מי סוכר (שליש-חצי כוס) בעזרת מברשת.
+
+    </string>
+    <string name="recipe4">
+<big><big>נטרף (תירס) פסטה</big></big>\n
+<b>מרכיבים</b>\n
+לבצק\n
+קמח תירס\n
+מים\n
+חצי כפית מלח\n
+לתוספת\n
+בצל ירוק\n
+מלח\n
+ביצים\n
+<b>אופן ההכנה</b>\n
+על כל כוס קמח לשים שתי כוסות מים
+לשים במחבת שתי כוסות מים וכוס קמח וחצי כפית מלח ולערבב עד שמתאחד (עשייה כמו של בצק פחזניות)
+ןלאחר מכן לשטח במחבת ולהפוך לצלחת
+לתוספת לטגן בצל ירוק קצוץ עם מלח ופפריקה מתוקה לפי הטעם ולהוסיף גבינה צרקסית מפוררת
+ולאחר ערבוב של הכל יחד להוסיף ביצים ולהכין מקושקת ולהגיש מעל הבצק .
+
+    </string>
+    <string name="scroll">
+        אירועים
+        \n\n\n\n
+        הפסטיבל הצרקסי
+
+        28.7.23
+        \n\n\n\n
+        יום הזיכרון הצרקסי
+        21.5.23
+        \n\n\n\n
+        יום הדגל הצרקסי
+        25.4.23
+        \n\n\n\n
+        מוזיאון הצרקסי
+        ישנו בריחאניה ובכפר כמא
+        ניתן ליצור קשר באתר של המוזיאון
+        \n\n\n\n
+
+    </string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <style name="Theme.Ci_Culture" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Ci_Culture.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Ci_Culture.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Ci_Culture.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
