@@ -1,0 +1,457 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:29:9-31:47
+	android:value
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:30:13-58
+manifest
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\noaha\.gradle\caches\transforms-3\9870e4dfb0c58d3f7e8c647de22eabf5\transformed\viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e20d10f5a93103bd1cf0a4aa90797a73\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\noaha\.gradle\caches\transforms-3\096bf213afe77a585ffd3b48d99021e1\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\noaha\.gradle\caches\transforms-3\e3812e3013dcce3d09f6468ff7588bf6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\93b361d2f2011eac4f241f316f0b142c\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\2c49ef333f5b7723375c6e78ea609c5f\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e6f867cdfa6c1ec709ac39f4d3845ae8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\bec8af81de18725b3f37f0aab6444dbb\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\a1b97e2170fd31e5a464696e28d34a17\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta06] C:\Users\noaha\.gradle\caches\transforms-3\3998b53fabf59c7ee14679a89ea534b1\transformed\firebase-appcheck-interop-16.0.0-beta06\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\27b91c24f4609f15205a6e0d3ff4d58b\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\noaha\.gradle\caches\transforms-3\6ecdd626666a3313e36f9000fb595aae\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\22eb01093da7ec85c02235523ed9d594\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\f18809d113b0bb27e5bccef41ca8856d\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\5b542e2bbe5eb0e4ca71e0f14ba5545d\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9129bfcf5d7a884aa25c3822fef48a2a\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\75bc372b28467eb2ccffcdda80d5e227\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\41cc668e68c2c07704266886d9699ef7\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\90943705a6898385db95da53bf12e8c8\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\993eb3cbce9b9c8c0fcbb9a693507996\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ec8863d5f0d4ee411a587085dfd7fec9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\9c48f6b7ee9d30b248da8acc734a04be\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\1457fae3ac261aad53ff2c94162e37bf\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\cf5dc5bf3a7de2b53263ca43ef3eec94\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\247d5fd89e758c4f1935a37a1782fa32\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\7503f9eb0ab442314f6ab5176ff08876\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\ed47dad8d18315552a70f3042030fcf1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\a2c4bb0954aae7290772ff26702ed60c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\86de5c4c4e2a05056a6bc07d9675def4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\3c3235fb2bc17522fae3d3936c730c54\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\131d296a08b98ca98044510f7d6d0ed5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\ff6fdace1a97176432cd8cd15d498efa\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\3c4e1c196dae85c6ebaec5da65cc5b04\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\b60fb27fcecc36ae3607752b00c37527\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f5e98afea94c6616f71cd62aac1c8802\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b62f56d1685cd08de76fc0cdf3c063dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\3206ca5a0b16ea0d3e78e2ccb0db72df\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\402e9f5085ed80913072a830b24fa43d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\49cf6990f6561f6e2092847a8ad473b0\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\13678d3af3a68f6003c9dbfd3ff0ab89\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\a7d2bb0a650f6157c85d547488e99e4a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\noaha\.gradle\caches\transforms-3\2a6ba7f1838b522e4d026fc1c98f96a3\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\e53cc0988ffecb5e28b2721bbaab9fc0\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\e3aab53ccbb09613875ebeec8e76f855\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9da38223530ac976eeaf7619788d5eb8\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noaha\.gradle\caches\transforms-3\cc12ed47532458be2a86e37e795b2f13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\49abc7fb5cb52aca13f881cf8b414a54\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\noaha\.gradle\caches\transforms-3\6beb597d5af653eb2690e04e097b14a3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b2dc43bb625144906680ff8f0556b415\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\4f2ccb893ec484dca3821c7a150ed677\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\7b2cd41e88be62206399f9baafa61a0a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ea82aff3496441c214c9759f5e4994d6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\5920046d1c4621a46849bd6037c5c9ee\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\f7a03d1b7170f31b208984504d7c8735\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\noaha\.gradle\caches\transforms-3\77845e3a7fd902f48421346562b50b1a\transformed\grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:5:5-64:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\noaha\.gradle\caches\transforms-3\096bf213afe77a585ffd3b48d99021e1\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\noaha\.gradle\caches\transforms-3\096bf213afe77a585ffd3b48d99021e1\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\noaha\.gradle\caches\transforms-3\e3812e3013dcce3d09f6468ff7588bf6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\noaha\.gradle\caches\transforms-3\e3812e3013dcce3d09f6468ff7588bf6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta06] C:\Users\noaha\.gradle\caches\transforms-3\3998b53fabf59c7ee14679a89ea534b1\transformed\firebase-appcheck-interop-16.0.0-beta06\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta06] C:\Users\noaha\.gradle\caches\transforms-3\3998b53fabf59c7ee14679a89ea534b1\transformed\firebase-appcheck-interop-16.0.0-beta06\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\noaha\.gradle\caches\transforms-3\6ecdd626666a3313e36f9000fb595aae\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\noaha\.gradle\caches\transforms-3\6ecdd626666a3313e36f9000fb595aae\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\22eb01093da7ec85c02235523ed9d594\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\22eb01093da7ec85c02235523ed9d594\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\e3aab53ccbb09613875ebeec8e76f855\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\e3aab53ccbb09613875ebeec8e76f855\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:13:9-48
+	android:dataExtractionRules
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.ci_culture.Photos
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:16:13-35
+activity#com.example.ci_culture.MapsActivity
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:36:13-56
+	android:exported
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.ci_culture.RecipeesActivity
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:exported
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:38:13-45
+meta-data#android.app.lib_name
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:40:13-42:36
+	android:value
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:42:17-33
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:41:17-52
+activity#com.example.ci_culture.BussinesesActivity
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:45:13-47
+activity#com.example.ci_culture.MainActivity
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:51:9-63:20
+	android:exported
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:52:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml:57:27-74
+uses-sdk
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\noaha\.gradle\caches\transforms-3\9870e4dfb0c58d3f7e8c647de22eabf5\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\noaha\.gradle\caches\transforms-3\9870e4dfb0c58d3f7e8c647de22eabf5\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e20d10f5a93103bd1cf0a4aa90797a73\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e20d10f5a93103bd1cf0a4aa90797a73\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\noaha\.gradle\caches\transforms-3\096bf213afe77a585ffd3b48d99021e1\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\noaha\.gradle\caches\transforms-3\096bf213afe77a585ffd3b48d99021e1\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\noaha\.gradle\caches\transforms-3\e3812e3013dcce3d09f6468ff7588bf6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\noaha\.gradle\caches\transforms-3\e3812e3013dcce3d09f6468ff7588bf6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\93b361d2f2011eac4f241f316f0b142c\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\93b361d2f2011eac4f241f316f0b142c\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\2c49ef333f5b7723375c6e78ea609c5f\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\2c49ef333f5b7723375c6e78ea609c5f\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e6f867cdfa6c1ec709ac39f4d3845ae8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\e6f867cdfa6c1ec709ac39f4d3845ae8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\bec8af81de18725b3f37f0aab6444dbb\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\bec8af81de18725b3f37f0aab6444dbb\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\a1b97e2170fd31e5a464696e28d34a17\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\a1b97e2170fd31e5a464696e28d34a17\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta06] C:\Users\noaha\.gradle\caches\transforms-3\3998b53fabf59c7ee14679a89ea534b1\transformed\firebase-appcheck-interop-16.0.0-beta06\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta06] C:\Users\noaha\.gradle\caches\transforms-3\3998b53fabf59c7ee14679a89ea534b1\transformed\firebase-appcheck-interop-16.0.0-beta06\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\27b91c24f4609f15205a6e0d3ff4d58b\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\27b91c24f4609f15205a6e0d3ff4d58b\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\noaha\.gradle\caches\transforms-3\6ecdd626666a3313e36f9000fb595aae\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\noaha\.gradle\caches\transforms-3\6ecdd626666a3313e36f9000fb595aae\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\22eb01093da7ec85c02235523ed9d594\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\22eb01093da7ec85c02235523ed9d594\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\f18809d113b0bb27e5bccef41ca8856d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\noaha\.gradle\caches\transforms-3\f18809d113b0bb27e5bccef41ca8856d\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\5b542e2bbe5eb0e4ca71e0f14ba5545d\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\5b542e2bbe5eb0e4ca71e0f14ba5545d\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9129bfcf5d7a884aa25c3822fef48a2a\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9129bfcf5d7a884aa25c3822fef48a2a\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\75bc372b28467eb2ccffcdda80d5e227\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\noaha\.gradle\caches\transforms-3\75bc372b28467eb2ccffcdda80d5e227\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\41cc668e68c2c07704266886d9699ef7\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\noaha\.gradle\caches\transforms-3\41cc668e68c2c07704266886d9699ef7\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\90943705a6898385db95da53bf12e8c8\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\90943705a6898385db95da53bf12e8c8\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\993eb3cbce9b9c8c0fcbb9a693507996\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\993eb3cbce9b9c8c0fcbb9a693507996\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ec8863d5f0d4ee411a587085dfd7fec9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ec8863d5f0d4ee411a587085dfd7fec9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\9c48f6b7ee9d30b248da8acc734a04be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\9c48f6b7ee9d30b248da8acc734a04be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\1457fae3ac261aad53ff2c94162e37bf\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\1457fae3ac261aad53ff2c94162e37bf\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\cf5dc5bf3a7de2b53263ca43ef3eec94\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\cf5dc5bf3a7de2b53263ca43ef3eec94\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\247d5fd89e758c4f1935a37a1782fa32\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\247d5fd89e758c4f1935a37a1782fa32\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\7503f9eb0ab442314f6ab5176ff08876\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\7503f9eb0ab442314f6ab5176ff08876\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\ed47dad8d18315552a70f3042030fcf1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\ed47dad8d18315552a70f3042030fcf1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\a2c4bb0954aae7290772ff26702ed60c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\a2c4bb0954aae7290772ff26702ed60c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\86de5c4c4e2a05056a6bc07d9675def4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\86de5c4c4e2a05056a6bc07d9675def4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\3c3235fb2bc17522fae3d3936c730c54\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\3c3235fb2bc17522fae3d3936c730c54\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\131d296a08b98ca98044510f7d6d0ed5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\131d296a08b98ca98044510f7d6d0ed5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\ff6fdace1a97176432cd8cd15d498efa\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\ff6fdace1a97176432cd8cd15d498efa\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\3c4e1c196dae85c6ebaec5da65cc5b04\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\3c4e1c196dae85c6ebaec5da65cc5b04\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\b60fb27fcecc36ae3607752b00c37527\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\b60fb27fcecc36ae3607752b00c37527\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f5e98afea94c6616f71cd62aac1c8802\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f5e98afea94c6616f71cd62aac1c8802\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\noaha\.gradle\caches\transforms-3\65269d99bd5f171ce653f0fa98cd16fb\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b62f56d1685cd08de76fc0cdf3c063dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b62f56d1685cd08de76fc0cdf3c063dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\3206ca5a0b16ea0d3e78e2ccb0db72df\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\3206ca5a0b16ea0d3e78e2ccb0db72df\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\402e9f5085ed80913072a830b24fa43d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\402e9f5085ed80913072a830b24fa43d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\49cf6990f6561f6e2092847a8ad473b0\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\49cf6990f6561f6e2092847a8ad473b0\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\13678d3af3a68f6003c9dbfd3ff0ab89\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\13678d3af3a68f6003c9dbfd3ff0ab89\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\a7d2bb0a650f6157c85d547488e99e4a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\a7d2bb0a650f6157c85d547488e99e4a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\noaha\.gradle\caches\transforms-3\2a6ba7f1838b522e4d026fc1c98f96a3\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\noaha\.gradle\caches\transforms-3\2a6ba7f1838b522e4d026fc1c98f96a3\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\e53cc0988ffecb5e28b2721bbaab9fc0\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\e53cc0988ffecb5e28b2721bbaab9fc0\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\e3aab53ccbb09613875ebeec8e76f855\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\e3aab53ccbb09613875ebeec8e76f855\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9da38223530ac976eeaf7619788d5eb8\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\9da38223530ac976eeaf7619788d5eb8\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noaha\.gradle\caches\transforms-3\cc12ed47532458be2a86e37e795b2f13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\noaha\.gradle\caches\transforms-3\cc12ed47532458be2a86e37e795b2f13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\49abc7fb5cb52aca13f881cf8b414a54\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\noaha\.gradle\caches\transforms-3\49abc7fb5cb52aca13f881cf8b414a54\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\noaha\.gradle\caches\transforms-3\6beb597d5af653eb2690e04e097b14a3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\noaha\.gradle\caches\transforms-3\6beb597d5af653eb2690e04e097b14a3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b2dc43bb625144906680ff8f0556b415\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\b2dc43bb625144906680ff8f0556b415\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\4f2ccb893ec484dca3821c7a150ed677\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\4f2ccb893ec484dca3821c7a150ed677\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\7b2cd41e88be62206399f9baafa61a0a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\7b2cd41e88be62206399f9baafa61a0a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ea82aff3496441c214c9759f5e4994d6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\ea82aff3496441c214c9759f5e4994d6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\5920046d1c4621a46849bd6037c5c9ee\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\noaha\.gradle\caches\transforms-3\5920046d1c4621a46849bd6037c5c9ee\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\f7a03d1b7170f31b208984504d7c8735\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\f7a03d1b7170f31b208984504d7c8735\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\noaha\.gradle\caches\transforms-3\77845e3a7fd902f48421346562b50b1a\transformed\grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\noaha\.gradle\caches\transforms-3\77845e3a7fd902f48421346562b50b1a\transformed\grpc-android-1.44.1\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\noaha\Desktop\Project\Ci_Culture\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\noaha\.gradle\caches\transforms-3\77845e3a7fd902f48421346562b50b1a\transformed\grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\noaha\.gradle\caches\transforms-3\77845e3a7fd902f48421346562b50b1a\transformed\grpc-android-1.44.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\noaha\.gradle\caches\transforms-3\304ee46185120f06619c3d308852bb3a\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.1.1] C:\Users\noaha\.gradle\caches\transforms-3\12357539f0d72ad48a128d86fbdb27d9\transformed\firebase-firestore-24.1.1\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\noaha\.gradle\caches\transforms-3\707ab302d00791c4bbad3557e88e04c4\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\noaha\.gradle\caches\transforms-3\cf8e13a24a1e15ef777e68957e5625a8\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\noaha\.gradle\caches\transforms-3\8ebcc6b9dd61480df98e3ae37f867a4a\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\noaha\.gradle\caches\transforms-3\51c3994e29a3419feda40e3031814e24\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\noaha\.gradle\caches\transforms-3\1156c623fb6b6f4779dd925e85aa8764\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\noaha\.gradle\caches\transforms-3\fb57f1bc8f82a49212166ae046aa5005\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\noaha\.gradle\caches\transforms-3\f3c2021ad39533d8a3fbb75070245c90\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
